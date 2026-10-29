@@ -8,7 +8,7 @@ Download **Actara-Xer.zip** from [Releases](https://github.com/Actarra/Actara-Xe
 
 **The first release is being prepared. No add-in download is published yet.**
 
-Like [Actara Planner](https://github.com/Actarra/Actara-Planner), the release package will contain the protected/unviewable Excel add-in, a PDF installation and quick-use guide, and SHA-256 checksums. VBA source is not distributed in this repository.
+Like [Actara Planner](https://github.com/Actarra/Actara-Planner), the release package will contain the Excel add-in, a PDF installation and quick-use guide, and SHA-256 checksums. VBA source is not distributed in this repository.
 
 ## Installation
 
